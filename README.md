@@ -19,13 +19,21 @@ Make sure you have the following installed:
 
 Python 3.7+
 Jupyter Notebook
+
 Pip package manager
-Python Libraries:
+
+## Python Libraries:
+
 Install these using pip install:
 
 pyttsx3
+
 speech_recognition
+
 tensorflow
+
 beautifulsoup4
+
 pyjokes
+
 tkinter
